@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <>
         {/* Carousel Start */}
-        <div className="container-fluid px-0 mb-5">
+        <div className="container-fluid px-0 mb-5 wow fadeIn">
           <div className="container-fluid video">
             <div className="container">
               <div className="row g-0">
@@ -204,7 +204,7 @@ export default function Home() {
               <h3 className="display-6">ASTROLOGY SERVICE.</h3>
             </div>
             <div className="container">
-              <div className="row">
+              <div className="row wow fadeInUp">
                 <div className="col-lg-4">
                   <div
                     className="card"
@@ -393,7 +393,7 @@ export default function Home() {
             <h4>Predictions</h4>
           </center>
           <div className="zodiac container">
-            <div className="row">
+            <div className="row wow  fadeIn">
               <div className="col-lg-3">
                 <div
                   className="z-card text-center"
@@ -703,337 +703,337 @@ export default function Home() {
                 Your All Problems With Pure Remedies
               </h3>
             </div>
-            <div className="row">
+            <div className="row wow fadeIn">
               {/* tjs */}
               <div
-                className="content-column container col-lg-4"
+                className="content-column wow fadeIn container col-lg-4"
                 style={{ margin: "2rem auto 2rem auto" }}
               >
-                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element">
+                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element wow fadeIn">
                   <div
-                    class="elementor-element elementor-element-fa39f3b elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element"
+                    class="elementor-element elementor-element-fa39f3b elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element wow fadeIn"
                     data-id="fa39f3b"
                     data-element_type="widget"
                     data-widget_type="icon-list.default"
                   >
-                    <div class="elementor-widget-container two_elementor_element">
-                      <ul class="elementor-icon-list-items two_elementor_element">
-                        <li class="elementor-icon-list-item two_elementor_element">
+                    <div class="elementor-widget-container two_elementor_element wow fadeIn">
+                      <ul class="elementor-icon-list-items two_elementor_element wow fadeIn">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-break-your-ex-boyfriend-girlfriend-marriage/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Break Your ex-boyfriend Girlfriend Marriage
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-bring-my-husband-back-from-another-woman/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Bring My Husband Back From Another Woman
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-convince-my-ex-for-love-marriage-with-me/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Convince My Ex For Love Marriage With Me
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-get-just-my-first-true-love-back/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Get Just My First True Love Back
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-usa/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Usa
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-new-york/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In New York
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-california/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In California
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-illinois/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Illinois
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-london/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In London
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-uk/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Uk
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-birmingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Birmingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-liverpool/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Liverpool
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/get-lost-love-back-in-nottingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Get Lost Love Back In Nottingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-usa/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Usa
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-new-york/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In New York
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-california/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In California
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-illinois/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Illinois
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-uk/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Uk
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-london/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In London
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-california/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In California
                             </span>
                           </a>
@@ -1044,287 +1044,287 @@ export default function Home() {
                 </div>
               </div>
               <div
-                className="content-column container col-lg-4"
+                className="content-column wow fadeIn container col-lg-4"
                 style={{ margin: "2rem auto 2rem auto" }}
               >
-                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element">
+                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element wow fadeIn">
                   <div
-                    class="elementor-element elementor-element-5b922bc elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element"
+                    class="elementor-element elementor-element-5b922bc elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element wow fadeIn"
                     data-id="5b922bc"
                     data-element_type="widget"
                     data-widget_type="icon-list.default"
                   >
-                    <div class="elementor-widget-container two_elementor_element">
-                      <ul class="elementor-icon-list-items two_elementor_element">
-                        <li class="elementor-icon-list-item two_elementor_element">
+                    <div class="elementor-widget-container two_elementor_element wow fadeIn">
+                      <ul class="elementor-icon-list-items two_elementor_element wow fadeIn">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-get-my-ex-lesbian-partner-back/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Get My Ex-lesbian Partner Back
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-get-your-ex-back-when-he-leaves-you-permanently/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Get Your Ex Back When He Leaves You
                               Permanently
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-use-of-voodoo-specialist-doll-magic/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Use Of Voodoo Specialist Doll Magic
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-birmingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Birmingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-liverpool/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Liverpool
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/husband-wife-problem-in-nottingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Husband Wife Problem In Nottingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-the-usa/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Usa
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-new-york/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In New York
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-california/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In California
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-illinois/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Illinois
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-the-uk/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Uk
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-london/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In London
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-birmingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Birmingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-liverpool/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Liverpool
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-nottingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Nottingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-marriage-specialist-in-australia/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Marriage Specialist In Australia
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-usa/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Usa
                             </span>
                           </a>
@@ -1335,379 +1335,379 @@ export default function Home() {
                 </div>
               </div>
               <div
-                className="content-column container col-lg-4"
+                className="content-column wow fadeIn container col-lg-4"
                 style={{ margin: "2rem auto 2rem auto" }}
               >
-                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element">
+                <div class="elementor-widget-wrap elementor-element-populated two_elementor_element wow fadeIn">
                   <div
-                    class="elementor-element elementor-element-93a21dd elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element"
+                    class="elementor-element elementor-element-93a21dd elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list two_elementor_element wow fadeIn"
                     data-id="93a21dd"
                     data-element_type="widget"
                     data-widget_type="icon-list.default"
                   >
-                    <div class="elementor-widget-container two_elementor_element">
-                      <ul class="elementor-icon-list-items two_elementor_element">
-                        <li class="elementor-icon-list-item two_elementor_element">
+                    <div class="elementor-widget-container two_elementor_element wow fadeIn">
+                      <ul class="elementor-icon-list-items two_elementor_element wow fadeIn">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/how-to-win-a-court-case-immediately/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               How To Win A Court Case Immediately
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/i-just-want-my-ex-girlfriend-back-after-the-dispute/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               I Just Want My Ex-girlfriend Back After The
                               Dispute
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/kala-jadu-specialist-astrologer/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Kala Jadu Specialist Astrologer
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
-                          <span class="elementor-icon-list-icon two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
+                          <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                             <i
                               aria-hidden="true"
-                              class="fas fa-hand-point-right two_elementor_element"
+                              class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                             ></i>{" "}
                           </span>
-                          <span class="elementor-icon-list-text two_elementor_element">
+                          <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                             {" "}
                             Health Problems Solution
                           </span>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-illinois/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Illinois
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-uk/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Uk
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-london/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In London
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-birmingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Birmingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-liverpool/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Liverpool
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-nottingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Nottingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-australia/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In Australia
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-usa/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Usa
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-new-york/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In New York
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-california/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In California
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-illinois/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Illinois
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-the-uk/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Uk
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-london/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In London
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-liverpool/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Liverpool
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-nottingham/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Nottingham
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-sydney/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Sydney
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-melbourne/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Melbourne
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/black-magic-expert-in-perth/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Black Magic Expert In Perth
                             </span>
                           </a>
                         </li>
-                        <li class="elementor-icon-list-item two_elementor_element">
+                        <li class="elementor-icon-list-item two_elementor_element wow fadeIn">
                           <a
                             href="https://astrologermdsharma.com/love-problem-solution-in-new-york/"
-                            class="two_elementor_element"
+                            class="two_elementor_element wow fadeIn"
                           >
-                            <span class="elementor-icon-list-icon two_elementor_element">
+                            <span class="elementor-icon-list-icon two_elementor_element wow fadeIn">
                               <i
                                 aria-hidden="true"
-                                class="fas fa-hand-point-right two_elementor_element"
+                                class="fas fa-hand-point-right two_elementor_element wow fadeIn"
                               ></i>{" "}
                             </span>
-                            <span class="elementor-icon-list-text two_elementor_element">
+                            <span class="elementor-icon-list-text two_elementor_element wow fadeIn">
                               Love Problem Solution In New York
                             </span>
                           </a>
@@ -1757,22 +1757,27 @@ export default function Home() {
                     <input type="radio" name="testimonial" id="t-5" />
                     <div className="testimonials">
                       <label className="item" htmlFor="t-1">
+                        <img className="slider-image" src="https://www.rgstartup.com/demo9/images/tes.jpg" alt="" srcset="" />
                         <h6>Lorem, ipsum dolor.</h6>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatem aperiam inventore perferendis, beatae autem ipsa veniam quae dolores explicabo aut repellendus quam nobis tempore! Ipsum sunt iure vero aliquam?</span>
                       </label>
                       <label className="item" htmlFor="t-2">
+                        <img className="slider-image" src="https://www.rgstartup.com/demo9/images/tes2.jpg" alt="" />
                         <h6>Lorem, ipsum dolor.</h6>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatem aperiam inventore perferendis, beatae autem ipsa veniam quae dolores explicabo aut repellendus quam nobis tempore! Ipsum sunt iure vero aliquam?</span>
                       </label>
                       <label className="item" htmlFor="t-3">
+                        <img className="slider-image" src="https://www.rgstartup.com/demo9/images/tes3.jpg" alt="" />
                         <h6>Lorem, ipsum dolor.</h6>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatem aperiam inventore perferendis, beatae autem ipsa veniam quae dolores explicabo aut repellendus quam nobis tempore! Ipsum sunt iure vero aliquam?</span>
                       </label>
                       <label className="item" htmlFor="t-4">
+                        <img className="slider-image" src="https://www.rgstartup.com/demo9/images/tes.jpg" alt="" srcset="" />
                         <h6>Lorem, ipsum dolor.</h6>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatem aperiam inventore perferendis, beatae autem ipsa veniam quae dolores explicabo aut repellendus quam nobis tempore! Ipsum sunt iure vero aliquam?</span>
                       </label>
                       <label className="item" htmlFor="t-5">
+                        <img className="slider-image" src="https://www.rgstartup.com/demo9/images/tes2.jpg" alt="" />
                         <h6>Lorem, ipsum dolor.</h6>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptatem aperiam inventore perferendis, beatae autem ipsa veniam quae dolores explicabo aut repellendus quam nobis tempore! Ipsum sunt iure vero aliquam?</span>
                       </label>
@@ -1786,7 +1791,7 @@ export default function Home() {
                       <label htmlFor="t-5" />
                     </div>
                   </div>
-                  </div>
+                </div>
               </div>
               <div className="col-lg-6">
                 <div
@@ -1800,10 +1805,128 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Achievement & Awards */}
+        <div className="awards-fluid product py-5 my-5">
+          <div className="achivement-awards">
+            <div
+              className="awards-title text-center mx-auto wow fadeInUp"
+              data-wow-delay="0.1s"
+              style={{
+                maxWidth: "500px",
+              }}
+            >
+              <p className="fs-5 fw-medium fst-italic text-primary">
+                TRIUMPHANT HONORS
+              </p>
+              <h3 className="display-6"> ACHIEVEMENT & REWARDS.</h3>
+            </div>
+            <div className="container">
+              <div className="row wow fadeInUp">
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://plus.unsplash.com/premium_photo-1661487134705-b3693a52965c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60" alt="" />
+                  </div>
+                </div>
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://images.unsplash.com/photo-1589330694653-ded6df03f754?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60" alt="" />
+                  </div>
+                </div>
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://images.unsplash.com/photo-1584445584400-1a7cc5de77ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60" alt="" />
+                  </div>
+                </div>
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://images.pexels.com/photos/6651190/pexels-photo-6651190.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
+                  </div>
+                </div>
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://images.pexels.com/photos/8112198/pexels-photo-8112198.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
+                  </div>
+                </div>
+                <div className="col-lg-4">
+                  <div className="img-container">
+                    <img src="https://images.pexels.com/photos/8524944/pexels-photo-8524944.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+       
+        {/* Contact Start */}
+        <div className="container-xxl contact py-5">
+          <div className="container">
+            <div
+              className="section-title text-center mx-auto wow fadeInUp"
+              data-wow-delay="0.1s"
+              style={{
+                maxWidth: "500px",
+              }}
+            >
+              <p className="fs-5 fw-medium fst-italic text-primary">
+                Contact Us
+              </p>
+              <h1 className="display-6">Contact us right now</h1>
+            </div>
+            <div
+              className="row justify-content-center wow fadeInUp"
+              data-wow-delay="0.1s"
+            >
+              <div className="col-lg-8">
+                <p className="text-center mb-5">
+                  Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
+                  erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
+                  Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
+                  erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
+                </p>
+                <div className="row g-5">
+                  <div
+                    className="col-md-4 text-center wow fadeInUp"
+                    data-wow-delay="0.3s"
+                  >
+                    <div className="btn-square mx-auto mb-3">
+                      <i className="fa fa-envelope fa-2x text-white" />
+                    </div>
+                    <p className="mb-2">info@example.com</p>
+                    <p className="mb-0">support@example.com</p>
+                  </div>
+                  <div
+                    className="col-md-4 text-center wow fadeInUp"
+                    data-wow-delay="0.4s"
+                  >
+                    <div className="btn-square mx-auto mb-3">
+                      <i className="fa fa-phone fa-2x text-white" />
+                    </div>
+                    <p className="mb-2">+012 345 67890</p>
+                    <p className="mb-0">+012 345 67890</p>
+                  </div>
+                  <div
+                    className="col-md-4 text-center wow fadeInUp"
+                    data-wow-delay="0.5s"
+                  >
+                    <div className="btn-square mx-auto mb-3">
+                      <i className="fa fa-map-marker-alt fa-2x text-white" />
+                    </div>
+                    <p className="mb-2">123 Street</p>
+                    <p className="mb-0">New York, USA</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* Contact Emd */}
+
+
         {/* why choose us */}
         <section
           className="why-choose-us"
-          style={{ backgroundColor: "#f0ebfd", height: "100vh" }}
+          style={{ backgroundColor: "#f0ebfd" }}
         >
           <div className="choosee-us-column">
             <div className="row p-5">
@@ -1894,20 +2017,50 @@ export default function Home() {
                     Problems.
                   </p>
                 </div>
-                <div className="row g-3 mb-4">
-                  <div className="col">
-                    <h5>
-                      Experience the Power of Vedic Astrology with Arjun Sharma
-                    </h5>
-                    <p className="mb-0">
-                      Arjun Sharma Astrologer is your trusted choice for all
-                      your astrological needs. With over 10 years of experience,
-                      Arjun Sharma has helped countless individuals find clarity
-                      and guidance in their lives. His deep understanding of
-                      Vedic astrology and personalized approach ensures accurate
-                      and insightful readings. Choose us for a transformative
-                      astrological experience.
-                    </p>
+                <div className="row">
+                  <div className="col-sm-6">
+                    <div className="choose-us-card my-2 p-2">
+                      <center>
+                        <div className="fa-logo">
+                          <i class="fa-regular fa-2x fa-face-smile-beam" style={{ color: "white", alignItems: "center", marginTop: "0.5rem" }}></i>
+                        </div>
+                        <h1>9739+</h1>
+                        <span>Happy Clients</span>
+                      </center>
+                    </div>
+                  </div>
+                  <div className="col-sm-6">
+                    <div className="choose-us-card my-2 p-2">
+                      <center>
+                        <div className="fa-logo">
+                          <i class="fa-regular fa-2x fa-face-smile-beam" style={{ color: "white", alignItems: "center", marginTop: "0.5rem" }}></i>
+                        </div>
+                        <h1>9739+</h1>
+                        <span>Happy Clients</span>
+                      </center>
+                    </div>
+                  </div>
+                  <div className="col-sm-6">
+                    <div className="choose-us-card my-2 p-2">
+                      <center>
+                        <div className="fa-logo">
+                          <i class="fa-regular fa-2x fa-face-smile-beam" style={{ color: "white", alignItems: "center", marginTop: "0.5rem" }}></i>
+                        </div>
+                        <h1>9739+</h1>
+                        <span>Happy Clients</span>
+                      </center>
+                    </div>
+                  </div>
+                  <div className="col-sm-6">
+                    <div className="choose-us-card my-2 p-2">
+                      <center>
+                        <div className="fa-logo">
+                          <i class="fa-regular fa-2x fa-face-smile-beam" style={{ color: "white", alignItems: "center", marginTop: "0.5rem" }}></i>
+                        </div>
+                        <h1>9739+</h1>
+                        <span>Happy Clients</span>
+                      </center>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1915,69 +2068,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Contact Start */}
-        <div className="container-xxl contact py-5">
-          <div className="container">
-            <div
-              className="section-title text-center mx-auto wow fadeInUp"
-              data-wow-delay="0.1s"
-              style={{
-                maxWidth: "500px",
-              }}
-            >
-              <p className="fs-5 fw-medium fst-italic text-primary">
-                Contact Us
-              </p>
-              <h1 className="display-6">Contact us right now</h1>
-            </div>
-            <div
-              className="row justify-content-center wow fadeInUp"
-              data-wow-delay="0.1s"
-            >
-              <div className="col-lg-8">
-                <p className="text-center mb-5">
-                  Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
-                  erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
-                  Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
-                  erat ipsum et lorem et sit, sed stet lorem sit clita duo justo
-                </p>
-                <div className="row g-5">
-                  <div
-                    className="col-md-4 text-center wow fadeInUp"
-                    data-wow-delay="0.3s"
-                  >
-                    <div className="btn-square mx-auto mb-3">
-                      <i className="fa fa-envelope fa-2x text-white" />
-                    </div>
-                    <p className="mb-2">info@example.com</p>
-                    <p className="mb-0">support@example.com</p>
-                  </div>
-                  <div
-                    className="col-md-4 text-center wow fadeInUp"
-                    data-wow-delay="0.4s"
-                  >
-                    <div className="btn-square mx-auto mb-3">
-                      <i className="fa fa-phone fa-2x text-white" />
-                    </div>
-                    <p className="mb-2">+012 345 67890</p>
-                    <p className="mb-0">+012 345 67890</p>
-                  </div>
-                  <div
-                    className="col-md-4 text-center wow fadeInUp"
-                    data-wow-delay="0.5s"
-                  >
-                    <div className="btn-square mx-auto mb-3">
-                      <i className="fa fa-map-marker-alt fa-2x text-white" />
-                    </div>
-                    <p className="mb-2">123 Street</p>
-                    <p className="mb-0">New York, USA</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        {/* Contact Emd */}
       </>
     </div>
   );
